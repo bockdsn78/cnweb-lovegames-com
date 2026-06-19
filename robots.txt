@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bockdsn78.github.io/cnweb-lovegames-com/sitemap.xml
